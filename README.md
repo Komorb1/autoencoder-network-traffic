@@ -318,7 +318,6 @@ A simple structure for the repo could be:
 ```text
 .
 ├── Autoencoder.ipynb        # Main notebook with all experiments
-├── Autoencoder.html         # HTML export with outputs (for quick viewing)
 ├── data/                    # Folder where UNSW-NB15 CSVs live (not committed if large)
 ├── figures/                 # (Optional) Saved plots
 ├── requirements.txt         # Python dependencies
